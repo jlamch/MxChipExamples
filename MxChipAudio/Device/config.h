@@ -1,0 +1,2 @@
+
+#define NOISEBUFFER_SIZE 40
